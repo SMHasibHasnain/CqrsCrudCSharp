@@ -1,0 +1,11 @@
+P:\Full Projects\CqrsCrudCSharp\Domain\bin\Debug\net10.0\Domain.deps.json
+P:\Full Projects\CqrsCrudCSharp\Domain\bin\Debug\net10.0\Domain.dll
+P:\Full Projects\CqrsCrudCSharp\Domain\bin\Debug\net10.0\Domain.pdb
+P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\Domain.dll
+P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\refint\Domain.dll
+P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\Domain.pdb
+P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\ref\Domain.dll
