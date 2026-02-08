@@ -15,3 +15,4 @@ P:\Full Projects\CqrsCrudCSharp\Application\obj\Debug\net10.0\Application.dll
 P:\Full Projects\CqrsCrudCSharp\Application\obj\Debug\net10.0\refint\Application.dll
 P:\Full Projects\CqrsCrudCSharp\Application\obj\Debug\net10.0\Application.pdb
 P:\Full Projects\CqrsCrudCSharp\Application\obj\Debug\net10.0\ref\Application.dll
+P:\Full Projects\CqrsCrudCSharp\Application\obj\Debug\net10.0\Application.sourcelink.json

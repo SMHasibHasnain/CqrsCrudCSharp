@@ -13,3 +13,4 @@ P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.dll
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\refint\Persistence.dll
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.pdb
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\ref\Persistence.dll
+P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.sourcelink.json

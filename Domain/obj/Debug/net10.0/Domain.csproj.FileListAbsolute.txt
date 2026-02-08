@@ -9,3 +9,4 @@ P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\Domain.dll
 P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\refint\Domain.dll
 P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\Domain.pdb
 P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\ref\Domain.dll
+P:\Full Projects\CqrsCrudCSharp\Domain\obj\Debug\net10.0\Domain.sourcelink.json
