@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Cwc8xHZiUTY=",
+  "dgSpecHash": "WdSAuGmeXQ8=",
   "success": true,
   "projectFilePath": "P:\\Full Projects\\CqrsCrudCSharp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\smhas\\.nuget\\packages\\automapper\\16.0.0\\automapper.16.0.0.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
@@ -24,6 +25,10 @@
     "C:\\Users\\smhas\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\10.0.2\\microsoft.entityframeworkcore.sqlite.10.0.2.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\10.0.2\\microsoft.entityframeworkcore.sqlite.core.10.0.2.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.2\\microsoft.extensions.dependencymodel.10.0.2.nupkg.sha512",
+    "C:\\Users\\smhas\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\smhas\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\smhas\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\smhas\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\microsoft.visualstudio.solutionpersistence\\1.0.52\\microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",

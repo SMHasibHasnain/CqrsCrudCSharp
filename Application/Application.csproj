@@ -12,12 +12,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="16.0.0" />
     <PackageReference Include="MediatR" Version="12.4.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Students\" />
-    <Folder Include="Students\Commands\" />
+    <Folder Include="Core\" />
     <Folder Include="Students\Queries\" />
   </ItemGroup>
 

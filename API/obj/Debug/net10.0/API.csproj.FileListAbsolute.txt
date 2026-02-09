@@ -155,3 +155,8 @@ P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\ref\API.dll
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.sourcelink.json
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\MediatR.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\MediatR.Contracts.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\AutoMapper.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll

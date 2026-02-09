@@ -1,4 +1,6 @@
+using Application.Core;
 using Application.Students.Queries;
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -12,6 +14,8 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
     opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 builder.Services.AddMediatR(x => x.RegisterServicesFromAssemblyContaining<GetStudentsList.Handler>());
+
+builder.Services.AddAutoMapper(cfg => cfg.AddMaps(typeof(MappingProfiles).Assembly));
 
 var app = builder.Build();
 
