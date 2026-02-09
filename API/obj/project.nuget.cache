@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "M0G3E55IIAg=",
+  "dgSpecHash": "Cwc8xHZiUTY=",
   "success": true,
   "projectFilePath": "P:\\Full Projects\\CqrsCrudCSharp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smhas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\smhas\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\smhas\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
     "C:\\Users\\smhas\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",

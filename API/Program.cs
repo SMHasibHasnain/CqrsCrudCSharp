@@ -1,3 +1,4 @@
+using Application.Students.Queries;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -10,6 +11,7 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+builder.Services.AddMediatR(x => x.RegisterServicesFromAssemblyContaining<GetStudentsList.Handler>());
 
 var app = builder.Build();
 
