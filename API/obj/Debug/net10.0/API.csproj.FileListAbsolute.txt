@@ -6,7 +6,10 @@ P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\API.deps.json
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\API.runtimeconfig.json
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\API.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\API.pdb
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\AutoMapper.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Humanizer.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\MediatR.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\MediatR.Contracts.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.Build.Framework.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
@@ -22,6 +25,10 @@ P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.EntityFrameworkC
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.OpenApi.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Mono.TextTemplating.dll
@@ -137,6 +144,7 @@ P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.AssemblyInfo.cs
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.csproj.CoreCompileInputs.cache
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.MvcApplicationPartsAssemblyInfo.cs
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.MvcApplicationPartsAssemblyInfo.cache
+P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.sourcelink.json
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\rjimswa.dswa.cache.json
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -152,11 +160,3 @@ P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\refint\API.dll
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.pdb
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.genruntimeconfig.cache
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\ref\API.dll
-P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.sourcelink.json
-P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\MediatR.dll
-P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\MediatR.Contracts.dll
-P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\AutoMapper.dll
-P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
-P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
-P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll

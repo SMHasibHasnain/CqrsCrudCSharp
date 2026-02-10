@@ -8,9 +8,9 @@ P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.Genera
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.AssemblyInfoInputs.cache
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.AssemblyInfo.cs
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.csproj.CoreCompileInputs.cache
+P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.sourcelink.json
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persiste.61C28332.Up2Date
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.dll
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\refint\Persistence.dll
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.pdb
 P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\ref\Persistence.dll
-P:\Full Projects\CqrsCrudCSharp\Persistence\obj\Debug\net10.0\Persistence.sourcelink.json

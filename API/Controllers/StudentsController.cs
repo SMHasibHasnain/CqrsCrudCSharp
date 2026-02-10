@@ -6,6 +6,7 @@ using Domain;
 using MediatR;
 using Application.Students.Queries;
 using Application.Students.Commands;
+using Application.Students.Dtos;
 
 namespace API.Controllers;
 
@@ -36,7 +37,7 @@ public class StudentsController() : BaseApiController
     }
 
     [HttpPost("create")]
-    public async Task<ActionResult<Unit>> CreateStudent([FromBody]Student student) {
-        return await Mediator.Send(new CreateStudent.Command{Student = student});
+    public async Task<ActionResult<Unit>> CreateStudent([FromBody]CreateStudentDto student) {
+        return await Mediator.Send(new CreateStudent.Command{StudentDto = student});
     }
 }

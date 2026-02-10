@@ -1,4 +1,5 @@
 using System;
+using Application.Students.Dtos;
 using AutoMapper;
 using Domain;
 using MediatR;
@@ -10,14 +11,16 @@ public class CreateStudent
 {
     public class Command : IRequest<Unit>
     {
-        public required Student Student;
+        public required CreateStudentDto StudentDto {get; set;}
     }
 
-    public class Handler (AppDbContext context) : IRequestHandler<Command, Unit>
+    public class Handler (AppDbContext context, IMapper mapper) : IRequestHandler<Command, Unit>
     {
         public async Task<Unit> Handle(Command request, CancellationToken cancellationToken)
         {
-            context.Students.Add(request.Student);
+            var student = mapper.Map<Student>(request.StudentDto);
+
+            context.Students.Add(student);
 
             await context.SaveChangesAsync(cancellationToken);
             
