@@ -1,6 +1,7 @@
 using Application.Core;
 using Application.Students.Queries;
 using AutoMapper;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -16,6 +17,8 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 builder.Services.AddMediatR(x => x.RegisterServicesFromAssemblyContaining<GetStudentsList.Handler>());
 
 builder.Services.AddAutoMapper(cfg => cfg.AddMaps(typeof(MappingProfiles).Assembly));
+
+builder.Services.AddValidatorsFromAssemblyContaining<Application.Students.Validators.CreateStudentValidator>();
 
 var app = builder.Build();
 

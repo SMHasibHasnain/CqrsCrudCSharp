@@ -1,1 +1,1 @@
-Here we are making Crud with CQRS pattern and Clean Architecture Using MediatR, AutoMapper, DTO etc.
+Here we are making Crud with CQRS pattern and Clean Architecture Using MediatR, AutoMapper, FluentValidator DTO etc.
