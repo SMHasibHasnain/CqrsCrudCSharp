@@ -7,4 +7,5 @@ namespace Persistence;
 public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {
     public required DbSet<Student> Students { get; set; }
+    public required DbSet<Teacher> Teachers { get; set; }
 }

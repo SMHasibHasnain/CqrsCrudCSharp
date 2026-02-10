@@ -1,8 +1,10 @@
 using Application.Core;
 using Application.Students.Queries;
 using AutoMapper;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
+using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +18,10 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 builder.Services.AddMediatR(x => x.RegisterServicesFromAssemblyContaining<GetStudentsList.Handler>());
 
 builder.Services.AddAutoMapper(cfg => cfg.AddMaps(typeof(MappingProfiles).Assembly));
+
+builder.Services.AddValidatorsFromAssemblyContaining<Application.Teachers.Validators.CreateTeacherValidator>();
+
+builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
@@ -34,6 +40,13 @@ catch (Exception ex)
 {
     var logger = services.GetRequiredService<ILogger<Program>>();
     logger.LogError(ex, "An error occurred during migration.");
+}
+
+if (app.Environment.IsDevelopment())
+{
+    app.MapOpenApi();
+    
+    app.MapScalarApiReference();
 }
 
 app.Run();

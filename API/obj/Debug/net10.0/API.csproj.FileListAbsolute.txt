@@ -1,3 +1,12 @@
+P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.csproj.AssemblyReference.cache
+P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\rpswa.dswa.cache.json
+P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.GeneratedMSBuildEditorConfig.editorconfig
+P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.AssemblyInfoInputs.cache
+P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.AssemblyInfo.cs
+P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.csproj.CoreCompileInputs.cache
+P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.MvcApplicationPartsAssemblyInfo.cs
+P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.MvcApplicationPartsAssemblyInfo.cache
+P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.sourcelink.json
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\appsettings.Development.json
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\appsettings.json
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\API.staticwebassets.endpoints.json
@@ -7,6 +16,8 @@ P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\API.runtimeconfig.json
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\API.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\API.pdb
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\AutoMapper.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\FluentValidation.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Humanizer.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\MediatR.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\MediatR.Contracts.dll
@@ -33,6 +44,7 @@ P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.OpenApi.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Mono.TextTemplating.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Newtonsoft.Json.dll
+P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Scalar.AspNetCore.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\SQLitePCLRaw.core.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
@@ -136,15 +148,6 @@ P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Persistence.dll
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Application.pdb
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Domain.pdb
 P:\Full Projects\CqrsCrudCSharp\API\bin\Debug\net10.0\Persistence.pdb
-P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.csproj.AssemblyReference.cache
-P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\rpswa.dswa.cache.json
-P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.GeneratedMSBuildEditorConfig.editorconfig
-P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.AssemblyInfoInputs.cache
-P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.AssemblyInfo.cs
-P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.csproj.CoreCompileInputs.cache
-P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.MvcApplicationPartsAssemblyInfo.cs
-P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.MvcApplicationPartsAssemblyInfo.cache
-P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\API.sourcelink.json
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\rjimswa.dswa.cache.json
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 P:\Full Projects\CqrsCrudCSharp\API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

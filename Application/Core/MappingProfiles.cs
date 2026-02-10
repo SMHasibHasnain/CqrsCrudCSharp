@@ -2,6 +2,7 @@ using System;
 using Domain;
 using AutoMapper;
 using Application.Students.Dtos;
+using Application.Teachers.Dtos;
 
 namespace Application.Core;
 
@@ -11,6 +12,7 @@ public class MappingProfiles : Profile
     {
         CreateMap<Student, Student>();
         CreateMap<CreateStudentDto, Student>();
+        CreateMap<CreateTeacherDto, Teacher>();
     }
 
 }

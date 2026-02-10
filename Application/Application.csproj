@@ -13,12 +13,18 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="16.0.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="12.1.1" />
     <PackageReference Include="MediatR" Version="12.4.1" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Core\" />
     <Folder Include="Students\Queries\" />
+    <Folder Include="Teachers\" />
+    <Folder Include="Teachers\Command\" />
+    <Folder Include="Teachers\Dtos\" />
+    <Folder Include="Teachers\Query\" />
+    <Folder Include="Teachers\Validators\" />
   </ItemGroup>
 
 </Project>

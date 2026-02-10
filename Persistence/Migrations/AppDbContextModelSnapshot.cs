@@ -22,6 +22,7 @@ namespace Persistence.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Hometown")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<bool>("IsRegular")
@@ -34,6 +35,28 @@ namespace Persistence.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Students");
+                });
+
+            modelBuilder.Entity("Domain.Teacher", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Hometown")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("MobileNumber")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Teachers");
                 });
 #pragma warning restore 612, 618
         }

@@ -40,4 +40,6 @@ public class StudentsController() : BaseApiController
     public async Task<ActionResult<Unit>> CreateStudent([FromBody]CreateStudentDto student) {
         return await Mediator.Send(new CreateStudent.Command{StudentDto = student});
     }
+
+    
 }
