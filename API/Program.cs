@@ -1,3 +1,4 @@
+using API.Middleware;
 using Application.Core;
 using Application.Students.Queries;
 using AutoMapper;
@@ -26,7 +27,11 @@ builder.Services.AddValidatorsFromAssemblyContaining<Application.Teachers.Valida
 
 builder.Services.AddOpenApi();
 
+builder.Services.AddTransient<ExceptionMiddleware>();
+
 var app = builder.Build();
+
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.MapControllers();
 
