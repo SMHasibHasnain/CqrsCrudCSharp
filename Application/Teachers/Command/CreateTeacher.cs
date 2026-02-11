@@ -16,13 +16,14 @@ public class CreateTeacher
         public required CreateTeacherDto TeacherDto {get; set;}
     }
 
-    public class Handler(AppDbContext _context, IMapper _mapper, IValidator<Command> _validator) : IRequestHandler<Command, Unit>
+    public class Handler(AppDbContext _context, IMapper _mapper) : IRequestHandler<Command, Unit>
     {
         public async Task<Unit> Handle(Command request, CancellationToken cancellationToken)
         {
-            await _validator.ValidateAndThrowAsync(request, cancellationToken);
+
             var teacher = _mapper.Map<Teacher>(request.TeacherDto);
             _context.Teachers.Add(teacher);
+            
             await _context.SaveChangesAsync(cancellationToken);
             return Unit.Value;
         }

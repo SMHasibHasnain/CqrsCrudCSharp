@@ -15,7 +15,10 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
-builder.Services.AddMediatR(x => x.RegisterServicesFromAssemblyContaining<GetStudentsList.Handler>());
+builder.Services.AddMediatR(x => {
+    x.RegisterServicesFromAssemblyContaining<GetStudentsList.Handler>();
+    x.AddOpenBehavior(typeof(ValidationBehavior<,>));
+});
 
 builder.Services.AddAutoMapper(cfg => cfg.AddMaps(typeof(MappingProfiles).Assembly));
 
